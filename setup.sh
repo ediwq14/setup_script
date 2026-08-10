@@ -44,8 +44,8 @@ fi
 
 # Define repositories
 declare -A REPOS=(
-    ["device/nothing/Pong"]="https://github.com/Pong-Development/device_nothing_Pong.git|16"
-    ["vendor/nothing/Pong"]="https://github.com/Pong-Development/vendor_nothing_Pong.git|16"
+    ["device/nothing/Pong"]="https://github.com/ediwq14/device_nothing_Pong.git|16.0"
+    ["vendor/nothing/Pong"]="https://github.com/ediwq14/vendor_nothing_Pong.git|16"
     ["kernel/nothing/sm8475"]="https://github.com/Pong-Development/kernel_nothing_sm8475.git|17"
     ["kernel/nothing/sm8475-modules"]="https://github.com/Pong-Development/kernel_nothing_sm8475-modules.git|17"
     ["kernel/nothing/sm8475-devicetrees"]="https://github.com/Nothing-phone-2-Development/android_kernel_nothing_sm8475-devicetrees.git|lineage-23.0"
